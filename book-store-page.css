@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #1b1b1b;
+    background-size: cover;
+    margin: 17px;
+    font-family: "bree serif";
+    padding: 20px;
+}
+
+.popular-book-card {
+    padding: 10px;
+    margin: 20px;
+}
+
+.Homepage-heading {
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.book-apj-img {
+    height: 180px;
+    width: 150px;
+}
+
+.wingsoffire-card {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+}
+
+.text-container {
+    padding: 10px;
+}
+
+.book-name {
+    font-size: 15px;
+    color: #183b56;
+}
+
+.book-paragraph {
+    color: #06070d;
+    font-size: 14px;
+}
+
+.book-description {
+    color: #183b56;
+    font-size: 10px;
+}
+
+.btn {
+    font-family: "roboto";
+    font-size: 13px;
+}
+
+.recommended-books-card {
+    margin-top: 10px;
+}
+
+.recommended-books-card-heading {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.card {
+    background-color: #1b1b1b;
+}
+
+.book-image {
+    height: 130px;
+    width: 100px;
+}
+
+.text-container1 {
+    padding: 10px;
+}
+
+.card-heading {
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.card-paragraph {
+    font-size: 12px;
+    color: #e4e7eb;
+}
+
+.book-page-image {
+    height: 250px;
+    width: 160px;
+}
+
+.text {
+    text-align: center;
+}
+
+.heading {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.writer {
+    font-size: 10px;
+    color: #9aa5b1;
+}
+
+.description {
+    color: #e4e7eb;
+    font-size: 10px;
+    text-align: start;
+}
